@@ -947,7 +947,7 @@ pre {
 }
 
 .blockquote .blockquote-footer {
-  margin-top: 10px;
+  margin-top: 5px;
   color: #141414;
 }
 
@@ -6139,7 +6139,7 @@ i {
 }
 
 .footer {
-  padding: 70px 0;
+  padding: 30px 0;
 }
 
 .footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6 {
@@ -6153,12 +6153,12 @@ i {
 
 @media (max-width: 992px) {
   .footer #map-canvas {
-    height: 250px;
+    height: 10px;
   }
 }
 
 .footer-bottom {
-  padding: 50px 0;
+  padding: 5px 0;
 }
 
 .footer-bottom .row {
@@ -6166,7 +6166,7 @@ i {
 }
 
 .footer-bottom .row div[class^="col-"], .footer-bottom .row div[class*=" col-"] {
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 .gallery-wrapper {
